@@ -1,1 +1,1 @@
-# VideoRentalApp
+# FrontEnd of the VideoRentalApp
